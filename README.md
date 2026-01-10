@@ -66,7 +66,7 @@ Residual likelihood and impact were estimated after applying controls.
 | Asset / Process | Threat | Annex A Control |
 |-----------------|--------|----------------|
 | Student records | Data breach / theft | A.8.11 – Data encryption |
-| Laptop / PC | Malware introduction | A.8.10 – Use of removable media |
+| PC / Laptop | Malware introduction | A.8.10 – Use of removable media |
 | Printed documents | Unauthorized disclosure | A.7.3 – Securing offices |
 | Wi-Fi network | Eavesdropping | A.8.9 – Configuration management |
 | Old devices | Data recovery after disposal | A.7.12 – Secure disposal |
@@ -78,8 +78,11 @@ Residual likelihood and impact were estimated after applying controls.
 👉 The completed Risk Register file can be downloaded via my cybersecurity blog, [Happy Bytes](https://happy-bytes.vercel.app/blogs/iso27001-risk-register) 
 
 They can be viewed here on GitHub per below:
-- [Risk Register file (PDF)](reports/ISO27001_Risk_Register_Final_Complete.pdf)
-- [Risk Register file (Excel)](reports/ISO27001_Risk_Register_Final_Complete.xlsx)
+- [ISO27001_Risk_Register (PDF)](reports/ISO27001_Risk_Register_Final_Complete.pdf)
+- [ISO27001_Risk_Register (Excel)](reports/ISO27001_Risk_Register_Final_Complete.xlsx)
+
+
+![ISO27001_Risk_Register](ISO27001_Risk_Register_Final_Preview.webp)
 
 ---
 
