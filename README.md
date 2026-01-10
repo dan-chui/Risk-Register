@@ -10,6 +10,8 @@ The goal of this project is to showcase an understanding of:
 
 The Risk Register is designed around a **small education / tutoring service scenario**, chosen to reflect a realistic, resource-constrained organization.
 
+👉 The completed Risk Register file can be downloaded via my cybersecurity blog, [Happy Bytes](https://happy-bytes.vercel.app/blogs/iso27001-risk-register) 
+
 ---
 
 ## 🎯 Objectives
@@ -73,6 +75,9 @@ Residual likelihood and impact were estimated after applying controls.
 
 ## 📊 Deliverables
 
+👉 The completed Risk Register file can be downloaded via my cybersecurity blog, [Happy Bytes](https://happy-bytes.vercel.app/blogs/iso27001-risk-register) 
+
+They can be viewed here on GitHub per below:
 - [Risk Register file (PDF)](reports/ISO27001_Risk_Register_Final_Complete.pdf)
 - [Risk Register file (Excel)](reports/ISO27001_Risk_Register_Final_Complete.xlsx)
 
