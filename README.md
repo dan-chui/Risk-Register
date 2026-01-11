@@ -77,7 +77,7 @@ Residual likelihood and impact were estimated after applying controls.
 
 👉 The completed Risk Register file can be downloaded via my cybersecurity blog, [Happy Bytes](https://happy-bytes.vercel.app/blogs/iso27001-risk-register) 
 
-They can be viewed here on GitHub per below:
+The file can be viewed here on GitHub per below:
 - [ISO27001_Risk_Register (PDF)](reports/ISO27001_Risk_Register_Final_Complete.pdf)
 - [ISO27001_Risk_Register (Excel)](reports/ISO27001_Risk_Register_Final_Complete.xlsx)
 
