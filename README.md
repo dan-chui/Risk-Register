@@ -115,6 +115,8 @@ It does not represent a certified ISO 27001 implementation or a real organizatio
 
 ---
 
-## 📬 Contact
+## Contact 📬
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/danchui/) or review my other security projects.
+
+*Feedback and discussion are welcome. Thank you for reviewing this project.* 🙏
